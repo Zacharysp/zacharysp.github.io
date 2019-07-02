@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zacharysp/static/css/main.584f321a.chunk.css",
+    "main.js": "/zacharysp/static/js/main.bcde1fe4.chunk.js",
+    "main.js.map": "/zacharysp/static/js/main.bcde1fe4.chunk.js.map",
+    "runtime~main.js": "/zacharysp/static/js/runtime~main.ba9e99da.js",
+    "runtime~main.js.map": "/zacharysp/static/js/runtime~main.ba9e99da.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/zacharysp/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/zacharysp/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/zacharysp/index.html",
+    "precache-manifest.f675e29f59ee99360e43965425fa2512.js": "/zacharysp/precache-manifest.f675e29f59ee99360e43965425fa2512.js",
+    "service-worker.js": "/zacharysp/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/zacharysp/static/css/main.584f321a.chunk.css.map"
+  }
+}
